@@ -18,7 +18,7 @@ a tool to increase followers and likes<br>on your instagram account
 
 ### Usage
 ```bash
-  cd AutoIH
+  cd AutoIG
   python3 main.py
 ```
 
